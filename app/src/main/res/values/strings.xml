@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">AssessmentMobpro1</string>
+    <string name="app_name">Waste Bank</string>
+    <string name="name_hint">Waste Type</string>
+    <string name="weight_hint">Weight(kg)</string>
+    <string name="price_hint">Price</string>
+    <string name="submit">Submit</string>
+    <string name="invalid_input">Invalid input, please fill in all fields.</string>
+    <string name="about_app">About Waste</string>
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="copyright">Waste is the remaining waste from a product or item that is no longer used, but can still be recycled into valuable items.\n\nOrganic Waste\nWaste that comes from the remains of living creatures which easily decomposes naturally without human intervention to decompose\n\nInorganic Waste\nWaste that is no longer used and is difficult to decompose. Inorganic waste buried in the ground can cause soil pollution because inorganic waste is classified as a substance that is difficult to decompose and the waste will be buried in the soil for a long time, this causes damage to the soil layer.\n\nCopyright © 2024 Hafizh Dhiya Ulhaq. All rights reserved.</string>
+    <string name="inorganic">Inorganic</string>
+    <string name="organic">organic</string>
+    <string name="enter_data">Welcome to the Waste Bank application, a modern solution to make it easier for you to manage waste and protect the environment. With our platform, you can easily exchange waste for valuable economic value, and contribute positively to environmental sustainability. Come join us in making this world cleaner and greener.\n\nEnter waste Data</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>

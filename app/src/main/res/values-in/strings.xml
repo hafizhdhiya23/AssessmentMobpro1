@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bank Sampah</string>
+    <string name="enter_data">Selamat datang di aplikasi Bank Sampah, solusi modern untuk memudahkan Anda dalam mengelola limbah dan menjaga lingkungan. Dengan platform kami, Anda dapat dengan mudah menukarkan sampah menjadi nilai ekonomi yang berharga, serta berkontribusi positif terhadap keberlanjutan lingkungan. Mari bergabung bersama kami dalam menjadikan dunia ini lebih bersih dan lebih hijau.  Masukkan Data Sampah</string>
+    <string name="name_hint">Jenis Sampah</string>
+    <string name="weight_hint">Berat (kg)</string>
+    <string name="price_hint">Harga</string>
+    <string name="submit">Kirim</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="copyright">Sampah adalah sisa buangan dari suatu produk atau barang yang sudah tidak digunakan lagi, tetapi masih dapat di daur ulang menjadi barang yang bernilai.\n\nSampah Organik\nSampah yang berasal dari sisa mahkluk hidup yang mudah terurai secara alami tanpa proses campur tangan manusia untuk dapat terurai.\n\nSampah Anorganik\nSampah yang sudah tidak dipakai lagi dan sulit terurai. Sampah anorganik yang tertimbun di tanah dapat menyebabkan pencemaran tanah karena sampah anorganik tergolong zat yang sulit terurai dan sampah itu akan tertimbun dalam tanah dalam waktu lama, ini menyebabkan rusaknya lapisan tanah.\n\nCopyright © 2024 Hafizh Dhiya Ulhaq. All rights reserved.</string>
+    <string name="invalid_input">Input tidak valid, mohon isi semua field.</string>
+    <string name="about_app">Seputar Sampah</string>
+    <string name="back">Kembali</string>
+    <string name="share">Bagikan</string>
+    <string name="organic">Organik</string>
+    <string name="inorganic">Anorganik</string>
+</resources>
